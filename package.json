@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/encho/pizza-pad/issues"
   },
-  "homepage": "https://github.com/encho/pizza-pad#readme"
+  "homepage": "https://github.com/encho/pizza-pad#readme",
+  "dependencies": {
+    "launchpad-mini": "^1.1.1"
+  }
 }
