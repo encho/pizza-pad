@@ -18,7 +18,8 @@
   },
   "homepage": "https://github.com/encho/pizza-pad#readme",
   "dependencies": {
-    "launchpad-mini": "^1.1.1"
+    "launchpad-mini": "^1.1.1",
+    "rxjs": "^5.0.0-rc.4"
   },
   "devDependencies": {
     "nodemon": "^1.11.0"
